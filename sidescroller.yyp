@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "789f7054-fe3d-4761-82ea-71f39d6610f1",
+            "Value": {
+                "id": "a12912e8-660f-465b-9551-c273a2014183",
+                "resourcePath": "sounds\\sGrunt\\sGrunt.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "7a962bb4-832e-4876-b38b-a5ced1209440",
             "Value": {
                 "id": "001d9c21-63fb-4d21-8c16-0203b062e190",
