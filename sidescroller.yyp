@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "02919896-57c0-45ed-9358-6ee42f48ba3e",
-            "Value": {
-                "id": "51ed672f-98b2-45cd-87a9-1043104ed9d9",
-                "resourcePath": "objects\\oPart\\oPart.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0642d6b9-db36-4752-8cd7-bee03b980300",
             "Value": {
                 "id": "f2e09a3a-3de7-4f52-8506-98d954c657f8",
@@ -207,10 +199,26 @@
             }
         },
         {
+            "Key": "682653f0-f123-4dc6-a904-45ce99c3c868",
+            "Value": {
+                "id": "f4a49e22-2f8d-4aa9-91ab-bd0772204930",
+                "resourcePath": "rooms\\rLong\\rLong.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "69c410c7-63de-4781-8bc2-57aa75b2bafe",
             "Value": {
                 "id": "510e0e28-e623-4a34-9874-1d3148dd8f6d",
                 "resourcePath": "objects\\oRain\\oRain.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6b876c8e-96ac-4795-92d1-4f51988bd371",
+            "Value": {
+                "id": "e2ff9ea1-4e39-4469-ac60-32a48491f62b",
+                "resourcePath": "objects\\oExplosion\\oExplosion.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -412,14 +420,6 @@
                 "id": "b9520711-c8e0-432d-9660-151757cfbfed",
                 "resourcePath": "sprites\\wall_s\\wall_s.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c2bd9ad9-4665-4bd2-9dc0-5d1ab286341c",
-            "Value": {
-                "id": "7701ddeb-dc5a-4194-9837-855c72f22786",
-                "resourcePath": "rooms\\Particle\\Particle.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
