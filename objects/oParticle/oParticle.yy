@@ -1,18 +1,28 @@
 {
-    "id": "fb301adc-9ebb-41c4-ac69-fa8b29b83240",
+    "id": "11992226-a200-4ee6-b084-bfd89918c057",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oLevelEnd",
+    "name": "oParticle",
     "eventList": [
         {
-            "id": "8b649fd9-00f6-4cf4-9006-55e69c85432c",
+            "id": "d24257c1-fd44-42bf-b481-fae2679ac676",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "d14d5c22-6a33-421c-8b3e-fac29acda626",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "fb301adc-9ebb-41c4-ac69-fa8b29b83240"
+            "eventtype": 0,
+            "m_owner": "11992226-a200-4ee6-b084-bfd89918c057"
+        },
+        {
+            "id": "ac75cdf7-c09f-4c0f-ab7b-3316804de9ba",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "11992226-a200-4ee6-b084-bfd89918c057"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "9830d5a5-5bd6-48b2-a86d-9734e540494b",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
