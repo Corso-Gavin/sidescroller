@@ -23,6 +23,36 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "d14d5c22-6a33-421c-8b3e-fac29acda626"
+        },
+        {
+            "id": "037a8543-755f-4ed8-abae-2d173d62ffba",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 7,
+            "m_owner": "d14d5c22-6a33-421c-8b3e-fac29acda626"
+        },
+        {
+            "id": "fa9c3424-854b-4a55-8224-1bdb56259110",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "fc650023-9cbf-4b85-ae33-8d50096cfac9",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "d14d5c22-6a33-421c-8b3e-fac29acda626"
+        },
+        {
+            "id": "29d445b7-29cb-4c12-80ea-62a546108db9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "d14d5c22-6a33-421c-8b3e-fac29acda626"
         }
     ],
     "maskSpriteId": "1eb0fff9-e85a-41d9-badf-e50cbb22ed84",
@@ -41,7 +71,50 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "98642dd0-ebae-4ed8-a279-67274cd3e2a8",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "killcount",
+            "varType": 0
+        },
+        {
+            "id": "066e9fee-ad2e-46b1-b9bf-203dc7241456",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "5",
+            "varName": "walksp",
+            "varType": 0
+        },
+        {
+            "id": "338b95b3-f0b5-496c-baf5-23ca1efc6664",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "adjusted",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "1eb0fff9-e85a-41d9-badf-e50cbb22ed84",
     "visible": true
