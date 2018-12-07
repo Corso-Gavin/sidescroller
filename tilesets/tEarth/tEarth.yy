@@ -2,7 +2,7 @@
     "id": "88724231-4a5d-41ca-9c06-09cc8a8b9817",
     "modelName": "GMTileSet",
     "mvc": "1.11",
-    "name": "tileset0",
+    "name": "tEarth",
     "auto_tile_sets": [
         {
             "id": "683f3d54-e724-404a-87ed-acb549e24f51",
